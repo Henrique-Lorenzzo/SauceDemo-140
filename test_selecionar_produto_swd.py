@@ -21,3 +21,4 @@ class Teste_Produtos():
         self.driver.get(self.url)                    # abre o navegador
         self.driver.find_element(By.ID, "user-name").send_keys("standard_user")     # escreve no campo user-name
         self.driver.find_element(By.ID, "password").send_keys("secret_sauce")       # escreve a senha
+        
