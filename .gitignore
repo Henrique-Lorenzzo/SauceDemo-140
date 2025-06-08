@@ -1,0 +1,4 @@
+/.pytest_cache
+/.venv
+/SauceDemo.side
+/__pycache__
